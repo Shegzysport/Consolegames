@@ -1,5 +1,5 @@
 # Consolegames
-Im importing this dataset with PgAdmin
+Im importing this dataset with PgAdmin 4 
 ## Question 1
 - Extract a view of the console game titles ordered by platform name in ascending order and year of release in descending order.
   ![2](https://github.com/Shegzysport/consolegames/assets/152897788/288297e7-56fc-4dab-aa8e-8103cda47ea7)
